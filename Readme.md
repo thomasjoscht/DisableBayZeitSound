@@ -21,5 +21,5 @@ Die nötigen Schritte sind:
 	- Aktion erstellen: 
 	- Aktion: Programm starten
 	- Skript: "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe";
-	- Argumente: -windowstyle hidden -file "D:\Privat\DisableBayZeitSound.ps1"
+	- Argumente: -windowstyle hidden -file "%UserProfile%\DisableBayZeitSound.ps1"
 3. **FERTIG!** Erfreue dich über die Stille 😊
